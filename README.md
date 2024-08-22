@@ -1,18 +1,7 @@
 <p style="text-align: center; background-color: #000; color: #8E44AD; padding: 1rem; border-radius: 5px;">
   <img style="float: left;" src="https://komarev.com/ghpvc/?username=lency05&label=Visitors&color=8E44AD&style=flat" alt="lency05 Visitors Badge" />
 </p>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
-<h1 class="typewriter">Hi 👋, I'm Lency Suresh</h1>
-
-<script>
-  var typed = new Typed('.typewriter', {
-    strings: ['Hi 👋, I\'m Lency Suresh'],
-    typeSpeed: 50,
-    backSpeed: 50,
-    loop: true
-  });
-</script>
+<h1 align="center">Hi 👋, I'm Lency Suresh</h1>>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -21,6 +10,16 @@
 -<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lency05" alt="lency05" /></a> </p>-->
 
 <h3 align="left">Connect with me:</h3>
+<br/>
+
+<div align="center"> </div>
+
+<div align="center" >
+  <a href="mailto:lencypreethisuresh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logocolor=red%22" target="_blank" />
+  </a>
+    
+</div>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lency-preethi-suresh-879641217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lency-preethi-suresh-879641217" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/lencyprsuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/lencyprsuresh" height="30" width="40" /></a>
