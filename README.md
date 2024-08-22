@@ -38,7 +38,7 @@
 
 <p style="text-align: justify; background-color: #333; color: #fff; padding: 1rem; display: flex; justify-content: space-between; align-items: center; border-radius: 5px;">
   <img src="https://github-readme-stats.vercel.app/api?username=lency05&show_icons=true&locale=en&theme=react&rank_icon=github" alt="lency05" />
-  <span style="margin: 0 5rem;">  </span>
+  <span style="margin: 0 1rem;">  </span>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lency05&theme=react" alt="lency05" />
 </p>
 <hr/>
