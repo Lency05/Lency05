@@ -34,9 +34,8 @@
 <img src="https://skillicons.dev/icons?i=github,python,c,mysql,vscode,html,css,figma,photoshop,illustrator,xd," > </a> </div>
 <br/>
 <hr/>
-
-
-<p style="text-align: justify; background-color: #333; color: #fff; padding: 1rem; display: flex; justify-content: space-between; align-items: center; border-radius: 5px;">
+<br/>
+<p>
   <img width="390" align="left" src="https://github-readme-stats.vercel.app/api?username=lency05&show_icons=true&locale=en&theme=react&rank_icon=github" alt="lency05" />
   <img width="390" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lency05&theme=react" alt="lency05" />
 </p>
