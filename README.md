@@ -1,4 +1,7 @@
-<img align="right" src="https://vistor-badge.laobi.icu/badge?page_id=lency05.lency05" />
+<p style="text-align: center; background-color: #000; color: #8E44AD; padding: 1rem; border-radius: 5px;"> 
+  <img src="https://komarev.com/ghpvc/?username=lency05&label=Visitors&color=8E44AD&style=flat" alt="lency05 Visitors Badge" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Lency Suresh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
