@@ -1,7 +1,8 @@
 <p style="text-align: center; background-color: #000; color: #8E44AD; padding: 1rem; border-radius: 5px;">
   <img style="float: left;" src="https://komarev.com/ghpvc/?username=lency05&label=Visitors&color=8E44AD&style=flat" alt="lency05 Visitors Badge" />
 </p>
-<h1 align="center">Hi 👋, I'm Lency Suresh</h1>>
+<h1 align="center">Hi 👋, I'm Lency Suresh</h1>
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -21,33 +22,24 @@
   <a href="https://www.linkedin.com/in/lency-preethi-suresh-879641217">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logocolor=white%22" target="_blank" />
   </a>
-    
+  <a href="https://www.behance.net/https://www.behance.net/lencyprsuresh">
+    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logocolor=white%22" target="_blank" />
+  </a>   
 </div>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lency-preethi-suresh-879641217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lency-preethi-suresh-879641217" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/lencyprsuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/lencyprsuresh" height="30" width="40" /></a>
-</p>
+
 <br/>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <!--<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>-->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <!--<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> -->
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> <br/>
+<div align="center"> 
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=github,python,c,mysql,vscode,html,css,figma,photoshop,illustrator,xd," > </a> </div>
+<br/>
+<hr/>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lency05&show_icons=true&locale=en&layout=compact" alt="lency05" /></p> <br/> -->
 
-<p style="text-align: center; background-color: #000; color: #8E44AD; padding: 1rem; border-radius: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lency05&show_icons=true&locale=en&theme=dark" alt="lency05" />
+<p style="text-align: justify; background-color: #333; color: #fff; padding: 1rem; display: flex; justify-content: space-between; align-items: center; border-radius: 5px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lency05&show_icons=true&locale=en&theme=react&rank_icon=github" alt="lency05" />
+  <span style="margin: 0 10rem;">  </span>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lency05&theme=react" alt="lency05" />
 </p>
+<hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lency05&" alt="lency05" /></p>
