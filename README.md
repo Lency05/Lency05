@@ -2,7 +2,18 @@
   <img style="float: left;" src="https://komarev.com/ghpvc/?username=lency05&label=Visitors&color=8E44AD&style=flat" alt="lency05 Visitors Badge" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Lency Suresh</h1>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+<h1 class="typewriter">Hi 👋, I'm Lency Suresh</h1>
+
+<script>
+  var typed = new Typed('.typewriter', {
+    strings: ['Hi 👋, I\'m Lency Suresh'],
+    typeSpeed: 50,
+    backSpeed: 50,
+    loop: true
+  });
+</script>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lency05&label=Profile%20views&color=0e75b6&style=flat" alt="lency05" /> </p>
