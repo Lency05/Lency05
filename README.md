@@ -30,7 +30,7 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lency05&show_icons=true&locale=en&layout=compact" alt="lency05" /></p> <br/> -->
 
 <p style="text-align: center; background-color: #333; color: #fff; padding: 1rem; border-radius: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lency05&show_icons=true&locale=en&theme=Monokai" alt="lency05" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lency05&show_icons=true&locale=en&theme=Solarized Dark" alt="lency05" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lency05&" alt="lency05" /></p>
