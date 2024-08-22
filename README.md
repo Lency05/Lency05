@@ -1,4 +1,4 @@
-6+<p style="text-align: center; background-color: #000; color: #8E44AD; padding: 1rem; border-radius: 5px;">
+<p style="text-align: center; background-color: #000; color: #8E44AD; padding: 1rem; border-radius: 5px;">
   <img style="float: left;" src="https://komarev.com/ghpvc/?username=lency05&label=Visitors&color=8E44AD&style=flat" alt="lency05 Visitors Badge" />
 </p>
 <h1 align="center">Hi 👋, I'm Lency Suresh</h1>
@@ -37,9 +37,8 @@
 
 
 <p style="text-align: justify; background-color: #333; color: #fff; padding: 1rem; display: flex; justify-content: space-between; align-items: center; border-radius: 5px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lency05&show_icons=true&locale=en&theme=react&rank_icon=github" alt="lency05" />
-  <span style="margin: 0 1rem;">  </span>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lency05&theme=react" alt="lency05" />
+  <img width="390" align="left" src="https://github-readme-stats.vercel.app/api?username=lency05&show_icons=true&locale=en&theme=react&rank_icon=github" alt="lency05" />
+  <img width="390" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lency05&theme=react" alt="lency05" />
 </p>
 <hr/>
 
