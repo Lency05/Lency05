@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/lency-preethi-suresh-879641217">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logocolor=white%22" target="_blank" />
   </a>
-  <a href="https://www.behance.net/https://www.behance.net/lencysuresh">
+  <a href="https://www.behance.net/lencysuresh">
     <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logocolor=white%22" target="_blank" />
   </a>   
 </div>
