@@ -1,4 +1,4 @@
-<p style="text-align: center; background-color: #000; color: #8E44AD; padding: 1rem; border-radius: 5px;"> 
+<p style="text-align: right; background-color: #000; color: #8E44AD; padding: 1rem; border-radius: 5px;">
   <img src="https://komarev.com/ghpvc/?username=lency05&label=Visitors&color=8E44AD&style=flat" alt="lency05 Visitors Badge" />
 </p>
 
