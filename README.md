@@ -39,5 +39,3 @@
   <img width="390" align="left" src="https://github-readme-stats.vercel.app/api?username=lency05&show_icons=true&locale=en&theme=react&rank_icon=github" alt="lency05" />
   <img width="390" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lency05&theme=react" alt="lency05" />
 </p>
-<hr/>
-
