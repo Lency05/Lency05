@@ -18,6 +18,9 @@
   <a href="mailto:lencypreethisuresh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logocolor=red%22" target="_blank" />
   </a>
+  <a href="mailto:lencypreethisuresh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logocolor=red%22" target="_blank" />
+  </a>
     
 </div>
 <p align="left">
