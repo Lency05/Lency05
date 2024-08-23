@@ -1,14 +1,12 @@
 <p style="text-align: center; background-color: #000; color: #8E44AD; padding: 1rem; border-radius: 5px;">
   <img style="float: left;" src="https://komarev.com/ghpvc/?username=lency05&label=Visitors&color=8E44AD&style=flat" alt="lency05 Visitors Badge" />
 </p>
-
+<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=lency05&label=Profile%20views&color=0e75b6&style=flat" alt="lency05" /> </p>-->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lency+Suresh!;" />
 </h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lency05&label=Profile%20views&color=0e75b6&style=flat" alt="lency05" /> </p>
 
 -<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lency05" alt="lency05" /></a> </p>-->
 
