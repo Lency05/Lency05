@@ -6,11 +6,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lency+Suresh!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India 👩🏻‍💻</h3>
 
--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lency05" alt="lency05" /></a> </p>-->
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lency05" alt="lency05" /></a> </p>-->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🌐:</h3>
 <br/>
 
 <div align="center"> </div>
@@ -28,7 +28,7 @@
 </div>
 
 <br/>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🛠️Languages and Tools🛠️:</h3>
 <div align="center"> 
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=github,python,c,mysql,vscode,html,css,figma,photoshop,illustrator,xd," > </a> </div>
