@@ -36,6 +36,6 @@
 <hr/>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=lency05&show_icons=true&locale=en&theme=react&rank_icon=github" width="390" height="390" alt="lency05" />
-  &emsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=lency05&theme=react" width="390" height="390" alt="lency05" />
+  &emsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=lency05&theme=react" width="391" height="391" alt="lency05" />
 </p>
 
