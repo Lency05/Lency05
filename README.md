@@ -66,7 +66,7 @@
 
   <a href="https://skillicons.dev">
 
-<img src="https://skillicons.dev/icons?i=github,python,c,mysql,vscode,html,css,javascript,figma,photoshop,illustrator,xd," /> </a> </div>
+<img src="https://skillicons.dev/icons?i=github,python,c,mysql,vscode,html,css,javascript,figma,photoshop,illustrator,xd," > </a> </div>
 
 <br/>
 
@@ -79,4 +79,3 @@
   &emsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=lency05&theme=react" width="390" height="390" alt="lency05" />
 
 </p>
-
