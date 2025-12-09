@@ -32,7 +32,7 @@
 <h3 align="left"> 🛠️Languages and Tools🛠️:</h3>
 <div align="center"> 
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,python,c,mysql,vscode,html,css,javascript,figma,photoshop,illustrator,xd," > </a> </div>
+<img src="https://skillicons.dev/icons?i=github,python,c,mysql,vscode,html,css,javascript,figma,photoshop,illustrator,xd," /> </a> </div>
 <br/>
 <hr/>
 <p>
